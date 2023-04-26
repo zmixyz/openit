@@ -2,10 +2,10 @@ config → openit/utils/clashcheck/config/config.yaml
 
 == Run
 === Local Python 3.x
-$ git clone https://github.com/yu-steven/openit.git --single-branch --depth=1
+$ git clone https://github.com/zmixyz/openit.git --single-branch --depth=1
 $ cd openit/utils/clashcheck/ && ./start.sh
 === Docker Containers
-$ git clone https://github.com/yu-steven/openit.git --single-branch --depth=1
+$ git clone https://github.com/zmixyz/openit.git --single-branch --depth=1
 $ docker build -t clashcheck openit/utils/clashcheck
 $ docker run -d --restart=on-failure:3 -p 80:80 clashcheck
 
@@ -21,4 +21,4 @@ $ curl 0.0.0.0:80/README
 === Terminal
 $ open openit/utils/clashcheck/data/check.yaml
 
-ℹ️ https://github.com/yu-steven/openit#Dockerfile
+ℹ️ https://github.com/zmixyz/openit#Dockerfile

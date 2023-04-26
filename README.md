@@ -1,5 +1,5 @@
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh"><img align="right" alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>
-# <img align=left src="https://gitlab.com/yu-steven/openit/-/raw/main/images/logo_mini.PNG" width=100 height=100> Openit  
+# <img align=left src="https://gitlab.com/zmixyz/openit/-/raw/main/images/logo_mini.PNG" width=100 height=100> Openit  
 <h6> Powered by <font color="green">OpenPCRS</font></h6>
 
 
@@ -17,7 +17,7 @@
  [git-license]: ./LICENSE
  [git-checkly]: https://openit.checklyhq.com
  [telegram]: https://ShareCentre.Pro
- [svg-nodes]: https://github.com/yu-steven/openit/actions/workflows/Nodes.yaml/badge.svg?branch=main
+ [svg-nodes]: https://github.com/zmixyz/openit/actions/workflows/Nodes.yaml/badge.svg?branch=main
  [svg-checkly]: https://api.checklyhq.com/v1/badges/checks/94ecef57-aedb-47e1-94d8-d8247ea02d9f?style=flat&theme=default
  [svg-license]: https://img.shields.io/badge/license-CC%20BY--SA%204.0-green.svg?style=flat
  [svg-telegram]: https://img.shields.io/badge/Telegram-@ShareCentrePro-blue.svg?style=flat
@@ -91,7 +91,7 @@ OneClick 在mac下确实可用，但是如果能用其他的就用其他的。
 [Quantumult X]: https://apps.apple.com/app/quantumult-x/id1443988620
 [Surge]: https://apps.apple.com/app/surge-4/id1442620678
 [one-click]: https://apps.apple.com/us/app/oneclick-safe-easy-fast/id1545555197
-[macos-black]: https://ghproxy.com/https://raw.githubusercontent.com/yu-steven/tag/main/macos-black.svg
+[macos-black]: https://ghproxy.com/https://raw.githubusercontent.com/zmixyz/tag/main/macos-black.svg
 ### [The Unarchiver](https://dl.devmate.com/com.macpaw.site.theunarchiver/TheUnarchiver.dmg)
 [![点击跳转至Mac App Store][macos-black]](https://apps.apple.com/app/the-unarchiver/id425424353)
 ##### [xxx.app 已损坏，无法打开，你应该将它移到废纸篓 / 打不开 xxx，因为它来自身份不明的开发者的解决方法](https://support.apple.com/zh-cn/guide/mac-help/mh40620/mac)
@@ -102,40 +102,40 @@ OneClick 在mac下确实可用，但是如果能用其他的就用其他的。
  <!--教程 ｜SS｜v2rayNG｜Clash｜Kitsunebi｜Surfboard｜SSR｜-->
 ### [SS][apk-ss]
 <a href="https://play.google.com/store/apps/details?id=com.github.shadowsocks" target="_black">
-<img alt="轻触跳转至Google Play" width="150px" src="https://ghproxy.com/https://raw.githubusercontent.com/yu-steven/tag/main/google-play.svg" />
+<img alt="轻触跳转至Google Play" width="150px" src="https://ghproxy.com/https://raw.githubusercontent.com/zmixyz/tag/main/google-play.svg" />
 </a>
 
 ### [v2rayNG][apk-v2rayng]
 <a href="https://play.google.com/store/apps/details?id=com.v2ray.ang" target="_black">
-<img alt="轻触跳转至Google Play" width="150px" src="https://ghproxy.com/https://raw.githubusercontent.com/yu-steven/tag/main/google-play.svg" />
+<img alt="轻触跳转至Google Play" width="150px" src="https://ghproxy.com/https://raw.githubusercontent.com/zmixyz/tag/main/google-play.svg" />
 </a>
 
 ### [Clash][apk-clash]
 <a href="https://play.google.com/store/apps/details?id=com.github.kr328.clash" target="_black">
-<img alt="轻触跳转至Google Play" width="150px" src="https://ghproxy.com/https://raw.githubusercontent.com/yu-steven/tag/main/google-play.svg" />
+<img alt="轻触跳转至Google Play" width="150px" src="https://ghproxy.com/https://raw.githubusercontent.com/zmixyz/tag/main/google-play.svg" />
 </a>
 
 ### [Matsuri][apk-Matsuri]
 <a href="https://play.google.com/store/apps/details?id=moe.matsuri.lite" target="_black">
-<img alt="轻触跳转至Google Play" width="150px" src="https://ghproxy.com/https://raw.githubusercontent.com/yu-steven/tag/main/google-play.svg" />
+<img alt="轻触跳转至Google Play" width="150px" src="https://ghproxy.com/https://raw.githubusercontent.com/zmixyz/tag/main/google-play.svg" />
 </a>
 
 ### [SagerNet][apk-SagerNet]
 <a href="https://play.google.com/store/apps/details?id=io.nekohasekai.sagernet" target="_black">
-<img alt="轻触跳转至Google Play" width="150px" src="https://ghproxy.com/https://raw.githubusercontent.com/yu-steven/tag/main/google-play.svg" />
+<img alt="轻触跳转至Google Play" width="150px" src="https://ghproxy.com/https://raw.githubusercontent.com/zmixyz/tag/main/google-play.svg" />
 </a>
 
 ### [Kitsunebi][apk-Kitsunebi]
 <a href="https://play.google.com/store/apps/details?id=fun.kitsunebi.kitsunebi4android" target="_black">
-<img alt="轻触跳转至Google Play" width="150px" src="https://ghproxy.com/https://raw.githubusercontent.com/yu-steven/tag/main/google-play.svg" />
+<img alt="轻触跳转至Google Play" width="150px" src="https://ghproxy.com/https://raw.githubusercontent.com/zmixyz/tag/main/google-play.svg" />
 </a>
 
 ### [Surfboard][apk-surfboard]
 <a href="https://play.google.com/store/apps/details?id=com.getsurfboard" target="_black">
-<img alt="轻触跳转至Google Play" width="150px" src="https://ghproxy.com/https://raw.githubusercontent.com/yu-steven/tag/main/google-play.svg" />
+<img alt="轻触跳转至Google Play" width="150px" src="https://ghproxy.com/https://raw.githubusercontent.com/zmixyz/tag/main/google-play.svg" />
 </a>
 
-### [魔改ss](https://ghproxy.com/https://raw.githubusercontent.com/yu-steven/openit/main/images/Shadowsocks_4.8.5.apk)
+### [魔改ss](https://ghproxy.com/https://raw.githubusercontent.com/zmixyz/openit/main/images/Shadowsocks_4.8.5.apk)
 ### [SSR][apk-ssr]
 
 [apk-ss]: https://d.apkpure.com/b/APK/com.github.shadowsocks?version=latest
@@ -146,7 +146,7 @@ OneClick 在mac下确实可用，但是如果能用其他的就用其他的。
 [apk-Kitsunebi]: https://d.apkpure.com/b/APK/fun.kitsunebi.kitsunebi4android?version=latest
 [apk-surfboard]: https://d.apkpure.com/b/APK/com.getsurfboard?version=latest
 [apk-ssr]: https://ghproxy.com/https://github.com/shadowsocksrr/shadowsocksr-android/releases/download/3.5.3/shadowsocksr-android-3.5.3.apk
-[google-play]: https://gitlab.com/yu-steven/tag/-/raw/main/google-play.svg
+[google-play]: https://gitlab.com/zmixyz/tag/-/raw/main/google-play.svg
 
 ## iOS
 首推Shadowrocket(俗称小火箭)后起之秀，支持众多格式[如图](#shadowrocket支持的协议--返回)简单易用并支持分享节点([教程](https://openit.daycat.space/tutorial/ios-shadowrocket.html)); 
@@ -187,7 +187,7 @@ Loon最为新兴软件，有着Surge美观的界面，但仍处于测试阶段;P
 [ipk-loon]: https://apps.apple.com/app/loon/id1373567447
 [ipk-oc]: https://apps.apple.com/app/oneclick-safe-easy-fast/id1545555197
 [ipk-sl]: https://apps.apple.com/app/shadowlink-shadowsocks-vpn/id1439686518
-[svg-apple]: https://ghproxy.com/https://raw.githubusercontent.com/yu-steven/tag/main/ios-black.svg
+[svg-apple]: https://ghproxy.com/https://raw.githubusercontent.com/zmixyz/tag/main/ios-black.svg
 [教程]: https://limbopro.com/archives/3846.html
 [神机规则]: https://merlinblog.xyz/wiki/quanx.html
 ##### [如何创建美区Apple ID？](https://shadowsockshelp.github.io/Shadowsocks/apple-id.html)
@@ -290,15 +290,15 @@ Loon最为新兴软件，有着Surge美观的界面，但仍处于测试阶段;P
 # Dockerfile
 这是可以运行ClashCheck的容器，要使用它你需要安装Docker、了解并会使用Docker
 
-Dockerfile -> [`utils/clashcheck/Dockerfile`](https://github.com/yu-steven/openit/blob/main/utils/clashcheck/Dockerfile)
+Dockerfile -> [`utils/clashcheck/Dockerfile`](https://github.com/zmixyz/openit/blob/main/utils/clashcheck/Dockerfile)
 
 在运行Docker之前你需要配置节点源
 
-配置节点源 -> [`utils/clashcheck/config/config.yaml`](https://github.com/yu-steven/openit/blob/main/utils/clashcheck/config/config.yaml) 的 [`source:`](https://github.com/yu-steven/openit/blob/main/utils/clashcheck/config/config.yaml#L4) 项（默认openit节点池）
+配置节点源 -> [`utils/clashcheck/config/config.yaml`](https://github.com/zmixyz/openit/blob/main/utils/clashcheck/config/config.yaml) 的 [`source:`](https://github.com/zmixyz/openit/blob/main/utils/clashcheck/config/config.yaml#L4) 项（默认openit节点池）
 
 要使用默认openit节点池在本地构建并运行此docker，只需使用以下命令：
 ```
-git clone https://github.com/yu-steven/openit.git --single-branch --depth=1; \
+git clone https://github.com/zmixyz/openit.git --single-branch --depth=1; \
 docker build -t clashcheck openit/utils/clashcheck; \
 docker run -d --restart=on-failure:3 -p 80:80 clashcheck
 ```
@@ -315,10 +315,10 @@ docker run -d --restart=on-failure:3 -p 80:80 clashcheck
 本仓库采用 CC BY-SA 4.0 许可协议
 
 OpenPCRS = PCRS = ProxyPool + ClashCheck + Remove&Rename + Subconverter
-<br>在本系统中，其中收集部分引用[daycat/pyray](https://github.com/daycat/pyray)仓库(主程序[`./utils/pool/main.py`](https://github.com/yu-steven/openit/blob/main/utils/pool/main.py))，测试筛选部分引用[daycat/clashcheck](https://github.com/daycat/clashcheck)仓库(主程序[`./utils/clashcheck/main.py`](https://github.com/yu-steven/openit/blob/main/utils/clashcheck/main.py))，去重重命名部分由Node.js编写(主程序[`./utils/rm/index.js`](https://github.com/yu-steven/openit/blob/main/utils/rm/index.js))，编码转换部分引用[tindy2013/subconverter](https://github.com/tindy2013/subconverter)仓库(主程序[`./utils/subconverter/subconverter`](https://github.com/yu-steven/openit/blob/main/utils/subconverter/subconverter)), 依靠[GitHub action](https://github.com/yu-steven/openit/actions)(配置文件[`./.github/workflows/Nodes.yaml`](https://github.com/yu-steven/openit/blob/main/.github/workflows/Nodes.yaml))持续集成持续交付持续部署
-<br>节点源文件 [➡️ 此处](https://github.com/yu-steven/openit/blob/main/url)
+<br>在本系统中，其中收集部分引用[daycat/pyray](https://github.com/daycat/pyray)仓库(主程序[`./utils/pool/main.py`](https://github.com/zmixyz/openit/blob/main/utils/pool/main.py))，测试筛选部分引用[daycat/clashcheck](https://github.com/daycat/clashcheck)仓库(主程序[`./utils/clashcheck/main.py`](https://github.com/zmixyz/openit/blob/main/utils/clashcheck/main.py))，去重重命名部分由Node.js编写(主程序[`./utils/rm/index.js`](https://github.com/zmixyz/openit/blob/main/utils/rm/index.js))，编码转换部分引用[tindy2013/subconverter](https://github.com/tindy2013/subconverter)仓库(主程序[`./utils/subconverter/subconverter`](https://github.com/zmixyz/openit/blob/main/utils/subconverter/subconverter)), 依靠[GitHub action](https://github.com/zmixyz/openit/actions)(配置文件[`./.github/workflows/Nodes.yaml`](https://github.com/zmixyz/openit/blob/main/.github/workflows/Nodes.yaml))持续集成持续交付持续部署
+<br>节点源文件 [➡️ 此处](https://github.com/zmixyz/openit/blob/main/url)
 
-Clash.yaml 使用的路由规则在 [➡️ 此处](https://github.com/yu-steven/openit/blob/main/utils/subconverter/config/rule.ini)
+Clash.yaml 使用的路由规则在 [➡️ 此处](https://github.com/zmixyz/openit/blob/main/utils/subconverter/config/rule.ini)
 <br>Quanx.conf 引用神机, [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script)和[lhie1](https://github.com/lhie1)的重写规则, [KOP-XIAO/QuantumultX](https://github.com/KOP-XIAO/QuantumultX)的js脚本、[MaxMind](https://www.maxmind.com) IP数据库, [Mazeorz/iOS_Rules_Scripts](https://github.com/Mazeorz/iOS_Rules_Scripts)的网易云音乐解锁, [GeQ1an/Rules](https://github.com/GeQ1an/Rules)部分去广告规则和[Koolson/Qure](https://github.com/Koolson/Qure)的图标
 
 著作权归作者所有，节点归IP所有者所有，规则、js脚本、代码、图标归创作所有者所有
@@ -329,12 +329,12 @@ Clash.yaml 使用的路由规则在 [➡️ 此处](https://github.com/yu-steven
 
 # Time in Stars
 <!--替换成自己的仓库和名字就可以用了-->
-[![Stargazers over time](https://starchart.cc/yu-steven/openit.svg)](https://starchart.cc/yu-steven/openit)
+[![Stargazers over time](https://starchart.cc/zmixyz/openit.svg)](https://starchart.cc/zmixyz/openit)
 
 #### *Quantumult X* UI界面  [返回](#ios)
-[![图片，加载不出来就不看吧](https://gitlab.com/yu-steven/openit/-/raw/main/images/quanx.JPG "是不是炒鸡漂亮呀")](https://apps.apple.com/app/quantumult-x/id1443988620)
+[![图片，加载不出来就不看吧](https://gitlab.com/zmixyz/openit/-/raw/main/images/quanx.JPG "是不是炒鸡漂亮呀")](https://apps.apple.com/app/quantumult-x/id1443988620)
 #### *Shadowrocket*支持的协议  [返回](#ios)
-[![图片，没啥，有软件之后就知道了](https://gitlab.com/yu-steven/openit/-/raw/main/images/Shadowrocket.JPG "是不是支持很多呀")](https://apps.apple.com/app/shadowrocket/id932747118)
+[![图片，没啥，有软件之后就知道了](https://gitlab.com/zmixyz/openit/-/raw/main/images/Shadowrocket.JPG "是不是支持很多呀")](https://apps.apple.com/app/shadowrocket/id932747118)
 *Telegram* [*@yusteven*](https://t.me/yusteven)
 <br>"created_at": "2021-12-13T08:41:28Z"
 <!--都看到这儿了，还不给个Star？-->
